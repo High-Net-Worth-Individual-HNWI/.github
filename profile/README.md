@@ -49,7 +49,12 @@ To access detailed profiles (names, contact information, etc.), consider these *
 #### **5. Recommended Action Steps**  
 1. **Leverage Industry Reports**: Purchase access to Capgemini, Knight Frank, or Henley & Partners’ annual publications for macro-level data.  
 2. **Use B2B Platforms**: Tools like **PitchBook** or **Crunchbase** provide insights into affluent individuals’ business networks.  
-3. **Consult Compliance Guidelines**: Ensure adherence to privacy laws (e.g., CCPA, GDPR) when sourcing contact information.  
+3. **Consult Compliance Guidelines**: Ensure adherence to privacy laws (e.g., CCPA, GDPR) when sourcing contact information.
+
+## FasterCapital.com infographic and recommend to read their article about igh-net-worth individual (hnwi)
+
+![high-net-worth individual (hnwi)](https://github.com/user-attachments/assets/d803f967-55c9-406f-8be3-6211f13f7f3c)
+
 
 For tailored assistance, consider engaging wealth management firms or specialized data brokers like **Experian** or **Equifax’s B2B divisions**. Let me know if you need further refinement!
 
